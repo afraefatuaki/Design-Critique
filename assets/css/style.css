@@ -165,8 +165,8 @@ ol{
 .rate p{
     position: absolute;
     height: 25vh;
-    bottom: -270%;
-    left: 32%;
+    bottom: -275%;
+    left: 33%;
     line-height: 30px;
     color: #848689 ;
 
@@ -183,7 +183,7 @@ ol{
     position: absolute;
     height: 25vh;
     bottom: -263%;
-    right: 19%;
+    right: 16%;
 }
 
 .line{
